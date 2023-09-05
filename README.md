@@ -1,5 +1,5 @@
-# Gitlet
-Gitlet is a version-control system that has features similar to Git.
+# Simple Git 
+A version-control system that has features similar to Git.
 
 ## Commands 
 #### 1. Initializes a new Gitlet version-control system

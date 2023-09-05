@@ -4,7 +4,7 @@ Gitlet is a version-control system that has features similar to Git.
 ## Commands 
 #### Initializes a new Gitlet version-control system
 java gitlet.Main init 
-
+<br>
 
 #### Adds file copy to the staging area found in Stage.java
 java gitlet.Main add [file name]
